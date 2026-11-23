@@ -38,5 +38,3 @@ Build a simple expense tracker to help a student manage a monthly budget.
 9. If **Save and Exit**: save, then stop. Otherwise go back to step 3.
 10. End
 
-## Flowchart
-```mermaid
